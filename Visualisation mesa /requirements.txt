@@ -1,0 +1,6 @@
+mesa[rec]
+numpy
+seaborn
+matplotlib
+solara
+
