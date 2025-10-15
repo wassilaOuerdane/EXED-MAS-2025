@@ -12,3 +12,5 @@ dependencies:
     - seaborn
     - solara
     - mesa[rec]
+    - altair
+    - networkx
