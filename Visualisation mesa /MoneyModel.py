@@ -62,7 +62,7 @@ class MoneyModel(mesa.Model):
         self.grid = mesa.space.MultiGrid(width, height, True)
 
         # Create agents
-         for i in range(n):
+        for i in range(n):
             agent = MoneyAgent(self)
 
             # Add agent to random grid cell
